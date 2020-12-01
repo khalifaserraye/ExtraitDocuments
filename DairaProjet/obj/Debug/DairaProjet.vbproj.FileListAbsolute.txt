@@ -1,0 +1,208 @@
+D:\Daira\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.config
+D:\Daira\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe
+D:\Daira\DairaProjet\DairaProjet\bin\Debug\DairaProjet.pdb
+D:\Daira\DairaProjet\DairaProjet\bin\Debug\DairaProjet.xml
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbprojAssemblyReference.cache
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.resources
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Resources.resources
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.GenerateResource.cache
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CoreCompileInputs.cache
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.xml
+D:\Daira\DairaProjet\DairaProjet\obj\Debug\DairaProjet.pdb
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.config
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.pdb
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.xml
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.resources
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Resources.resources
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.GenerateResource.cache
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CoreCompileInputs.cache
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.xml
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.pdb
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Shared.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\ShockwaveFlashObjects.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\stdole.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CopyComplete
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.manifest
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.application
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe.manifest
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.application
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbprojAssemblyReference.cache
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\aa\DairaProjet.resources.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\ar\DairaProjet.resources.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.aa.resources
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar.resources
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\aa\DairaProjet.resources.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\ar\DairaProjet.resources.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\bin\Debug\ar-DZ\DairaProjet.resources.dll
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar-DZ.resources
+D:\Daira - Copy - Copy\DairaProjet\DairaProjet\obj\Debug\ar-DZ\DairaProjet.resources.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.config
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.manifest
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\DairaProjet.application
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\DairaProjet.pdb
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\DairaProjet.xml
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\aa\DairaProjet.resources.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\ar-DZ\DairaProjet.resources.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\ar\DairaProjet.resources.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\AxShockwaveFlashObjects.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Shared.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\ShockwaveFlashObjects.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\stdole.dll
+D:\BESTversions\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbprojAssemblyReference.cache
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Resources.resources
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.GenerateResource.cache
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CoreCompileInputs.cache
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\aa\DairaProjet.resources.dll
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\ar-DZ\DairaProjet.resources.dll
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\ar\DairaProjet.resources.dll
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe.manifest
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.application
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CopyComplete
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.xml
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.pdb
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.resources
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.aa.resources
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar-DZ.resources
+D:\BESTversions\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar.resources
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.config
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.manifest
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.application
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.pdb
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\DairaProjet.xml
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\aa\DairaProjet.resources.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\ar-DZ\DairaProjet.resources.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\ar\DairaProjet.resources.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\AxShockwaveFlashObjects.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Shared.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\ShockwaveFlashObjects.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\stdole.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbprojAssemblyReference.cache
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.resources
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Resources.resources
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.aa.resources
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar-DZ.resources
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar.resources
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.GenerateResource.cache
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CoreCompileInputs.cache
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\aa\DairaProjet.resources.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\ar-DZ\DairaProjet.resources.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\ar\DairaProjet.resources.dll
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe.manifest
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.application
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CopyComplete
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.xml
+D:\BESTversions - Copy\DairaProjet\DairaProjet\obj\Debug\DairaProjet.pdb
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.config
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe.manifest
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\DairaProjet.application
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\DairaProjet.exe
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\DairaProjet.pdb
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\DairaProjet.xml
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\aa\DairaProjet.resources.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\ar-DZ\DairaProjet.resources.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\ar\DairaProjet.resources.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\stdole.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbprojAssemblyReference.cache
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.resources
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Resources.resources
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.aa.resources
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar-DZ.resources
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.Form1.ar.resources
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.GenerateResource.cache
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CoreCompileInputs.cache
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\aa\DairaProjet.resources.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\ar-DZ\DairaProjet.resources.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\ar\DairaProjet.resources.dll
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe.manifest
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.application
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.vbproj.CopyComplete
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.exe
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.xml
+C:\Users\TRETEC\Desktop\DairaProjet\DairaProjet\obj\Debug\DairaProjet.pdb
